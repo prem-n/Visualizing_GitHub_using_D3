@@ -1,0 +1,26 @@
+{"name":"bubble", "children": [
+{"name":"Python","description":"Python repos",
+"children":[
+    {"name": "Size","address":"http://localhost:8888/github/python_size.html"},
+    {"name": "Issue","address":"http://localhost:8888/github/python_issue.html"},
+    {"name": "Commit","address":"http://localhost:8888/github/python_commit.html"}
+]},
+{"name": "Java", "description": "Java repos",
+"children":[
+    {"name":"Size","address":"http://localhost:8888/github/java_size.html"},
+    {"name":"Issue","address":"http://localhost:8888/github/java_issue.html"},
+    {"name":"Commit","address":"http://localhost:8888/github/java_commit.html"}
+]},
+{"name":"JavaScript", "description":"JavaScript repos",
+"children":[
+    {"name":"Size","address":"http://localhost:8888/github/javascript_size.html"},
+    {"name":"Issue","address":"http://localhost:8888/github/javascript_issue.html"},
+    {"name":"Commit","address":"http://localhost:8888/github/javascript_commit.html"}
+]},
+{"name":"Ruby", "description":"Ruby repos",
+"children":[
+    {"name":"Size","address":"http://localhost:8888/github/ruby_size.html"},
+    {"name":"Issue","address":"http://localhost:8888/github/ruby_issue.html"},
+    {"name":"Commit","address":"http://localhost:8888/github/ruby_commit.html"}
+]}
+]}
